@@ -1,1 +1,4 @@
-//new file
+// module.exports={
+//     "color":"red",
+//     "fruit":"apple"
+// }
